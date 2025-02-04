@@ -1,0 +1,1 @@
+This repository contains a Tcl procedure to count lines in a file, along with an improved version that includes robust error handling and improved efficiency.  The original procedure demonstrates a common error in Tcl file processing: failure to handle file errors. The solution demonstrates best practices for file I/O in Tcl.
